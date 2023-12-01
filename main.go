@@ -1,8 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"echo-one/serverPackage"
+	"fmt"
+)
 
 func main() {
 	fmt.Println("Hello, Go!")
+	serverPackage.Server()
 	//
 }

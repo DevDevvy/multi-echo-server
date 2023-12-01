@@ -1,3 +1,3 @@
-module github.com/devdevvy/multi-echo-server
+module echo-one
 
 go 1.21.4
