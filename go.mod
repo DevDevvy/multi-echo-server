@@ -1,3 +1,3 @@
-module github.com/your-username/multi-echo-server
+module github.com/devdevvy/multi-echo-server
 
 go 1.21.4
